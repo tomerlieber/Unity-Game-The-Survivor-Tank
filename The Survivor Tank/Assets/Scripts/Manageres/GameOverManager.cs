@@ -13,10 +13,14 @@ public class GameOverManager : MonoBehaviour
     {
         // Set up the reference.
         anim = GetComponent<Animator>();
+    }
+
+    private void Start()
+    {
 		StartCoroutine(CheckGameOver());
     }
 
-	IEnumerator CheckGameOver()
+    IEnumerator CheckGameOver()
 	{
         // While the player has health...
         while (playerHealth.currentHealth > 0)
