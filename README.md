@@ -12,20 +12,20 @@ You will be spawned in the middle of your military base. Use the arrow keys to t
 ## Installation
 To run this game, on GitHub navigate to the main page of the repository. To the right of the list of files, click Releases and download the Latest release of the game. Another option is to download the GitHub zip file or clone the repository. Open it on Unity and run the game.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-r-Tvb5xrN8" target="_blank"><img src="public/images/Home.png" 
+<a href="https://youtu.be/_-J7x1lHj-8" target="_blank"><img src="public/images/Home.png" 
 alt="journal analytics demo link to youtube" width="300" height="200"/></a>
 
 ## More details about the game
-During the games events will be spawned in random places on the map. Some events are good and some are bad.
+You score points by destroying enemy tanks. During the games events will be spawned in random places on the map. The events usually will appear for a limited time and then disappear. The more you survive the invasion, the changes of getting good events go down, while the changes of getting bad events go up. Therefore, eventually you meet your demise. 
 
 The good events are:
-- Stronger Weapon - allow your tank to shoot faster.
+- Stronger Weapon - allow your tank to shoot faster for a limited time.
 - Life - an item in shape of heart that fix and give more life to your tank.
 - Shield - A magical shield that makes your tank invulnerable for a limited time. It's not easy to catch this item because it's running away from you, but once you do it your tank will start blinking.
 
 The bad events are:
 - Puddles - if you get into a puddle, the tank engine will break down for a while and your control keys will be flipped.
 - Rocks - the military base is located next to mountains, so be carfull from rocks fall from it.
-- Tnt Bomb - If you happen to be near one of these bombs, move away quickly because it causes a significant damage.
+- TNT Bomb - If you happen to be near one of these bombs, move away quickly because it causes a significant damage.
 - Enemy - a red enemy tank that invades to your military base.
 - Boss Enemy - a blue big enemy tank. This tank has more life and a stronger weapon, but it's worth more points if you destroy it.
