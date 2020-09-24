@@ -1,5 +1,6 @@
 # The Survivor Tank Game 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/tomerlieber/Unity-Game-The-Survivor-Tank)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tomerlieber/Unity-Game-The-Survivor-Tank)](https://github.com/tomerlieber/Unity-Game-The-Survivor-Tank/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/tomerlieber/Unity-Game-The-Survivor-Tank/blob/master/LICENSE)
 
 ## Summary
 The survivor tank is a 3D shooting game. You control a tank and need to fend off enemy invasion to your military base as much as possible.
