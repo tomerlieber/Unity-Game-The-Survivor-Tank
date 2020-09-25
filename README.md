@@ -11,7 +11,7 @@ I developed the game as a final project for a Video Game Development course I to
 
 **You can view a demo of the game by clicking on the image.**
 
-<a href="https://youtu.be/_-J7x1lHj-8"><img src="https://i.ibb.co/r4BqbP2/The-Survivor-Tank-Preview.png" alt="The-Survivor-Tank-Preview" border="0"></a>
+<a href="https://youtu.be/CjsuXfAbV1U"><img src="https://i.ibb.co/d6hjyrB/The-Survivor-Tank-Preview.png" alt="The-Survivor-Tank-Preview" border="0"></a>
 
 ## How to play
 You will be spawned in the middle of your military base. Use the arrow keys to turn around and drive forward and backward. When you encounter an enemy tank use the space bar to shoot a bullet. Bonuses like better weapons and life will appear for a short time so drive fast to collect them. On the other hand, penalties like bombs and stones from the sky also will appear so drive even faster to avoid them.
