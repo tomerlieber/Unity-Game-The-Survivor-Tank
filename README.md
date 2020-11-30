@@ -7,7 +7,7 @@ The survivor tank is a 3D shooting game. You control a tank and need to fend off
 You drive around, shoot different types of enemy tanks, collect bonuses and try to avoid penalties.
 The game's goal is to get as many points as possible because eventually you meet your demise.
 
-I developed the game as a final project for a Video Game Development course I took during an exchange students program. The game was developed in Unity and written in C#.
+I developed the game as a final project for a Video Game Development course I took during a student exchange program. The game was developed in Unity and written in C#.
 
 **You can view a demo of the game by clicking on the image.**
 
